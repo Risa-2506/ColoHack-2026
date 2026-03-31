@@ -1,6 +1,6 @@
 # 🏥 WardWatch – AI-Based Rehabilitation & Smart Bed Management System
 
----
+
 
 ## 📌 Overview
 
@@ -143,4 +143,5 @@ Patient interacts with the rehabilitation module, where pose detection and accur
 
 WardWatch is a comprehensive healthcare solution that bridges the gap between patient rehabilitation and hospital management, enabling smarter decisions and improved patient care through AI-driven insights.
 
+Built upon: Gokul-M7/Rehab-Motion-Tracking
 ---
