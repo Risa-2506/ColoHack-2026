@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --hospital-blue: #06b6d4;
+  --bg-slate: #f8fafc;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bg-slate);
+  color: #1e293b;
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-4 py-2 bg-hospital-500 text-white rounded-lg font-medium hover:bg-hospital-600 transition-colors shadow-sm;
+  }
+  .card {
+    @apply bg-white rounded-xl shadow-premium border border-slate-100 p-6;
+  }
+  .badge {
+    @apply px-2 py-1 rounded-md text-xs font-semibold uppercase tracking-wider;
+  }
+}
