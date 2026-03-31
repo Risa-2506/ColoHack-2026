@@ -8,7 +8,7 @@ WardWatch is an AI-powered healthcare system that integrates **real-time physiot
 
 The system enables hospitals to monitor patient recovery, manage bed allocation efficiently, and make informed discharge decisions using rehabilitation data.
 
----
+
 
 ## 🎯 Objectives
 
@@ -18,7 +18,7 @@ The system enables hospitals to monitor patient recovery, manage bed allocation 
 * Assist administrators in discharge decision-making
 * Reduce delays in emergency patient handling
 
----
+
 
 ## 🧩 Key Features
 
@@ -31,7 +31,7 @@ The system enables hospitals to monitor patient recovery, manage bed allocation 
 * Instant feedback through visual and voice guidance
 * Session tracking for rehabilitation progress
 
----
+
 
 ### 🏥 Admin Module (WardWatch Dashboard)
 
@@ -71,7 +71,7 @@ The system enables hospitals to monitor patient recovery, manage bed allocation 
 * Patient stay trends
 * Discharge activity tracking
 
----
+
 
 ### 🤖 AI-Based Rehabilitation Analysis
 
@@ -80,7 +80,7 @@ The system enables hospitals to monitor patient recovery, manage bed allocation 
 * Tracks improvement trends over multiple sessions
 * Provides continuous feedback for better recovery
 
----
+
 
 ### 📈 Discharge Prediction System
 
@@ -94,7 +94,7 @@ The system enables hospitals to monitor patient recovery, manage bed allocation 
 
 * Assists administrators in planning bed availability
 
----
+
 
 ### 🚑 Emergency Optimization
 
@@ -102,13 +102,13 @@ The system enables hospitals to monitor patient recovery, manage bed allocation 
 * Supports prioritization during emergency situations
 * Improves response time through better resource planning
 
----
+
 
 ## 🔗 System Architecture
 
 Patient interacts with the rehabilitation module, where pose detection and accuracy calculations are performed. The processed data is stored in a database and accessed by the admin dashboard for monitoring, analytics, and decision-making.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -118,7 +118,7 @@ Patient interacts with the rehabilitation module, where pose detection and accur
 * **Backend:** Node.js (optional integration)
 * **Visualization:** Recharts
 
----
+
 
 ## 🚀 Key Highlights
 
@@ -127,7 +127,7 @@ Patient interacts with the rehabilitation module, where pose detection and accur
 * Enables data-driven discharge decisions
 * Improves hospital efficiency and bed utilization
 
----
+
 
 ## 🧠 Future Scope
 
@@ -137,11 +137,11 @@ Patient interacts with the rehabilitation module, where pose detection and accur
 * Mobile application support
 * IoT-based smart bed tracking
 
----
+
 
 ## 🎯 Conclusion
 
 WardWatch is a comprehensive healthcare solution that bridges the gap between patient rehabilitation and hospital management, enabling smarter decisions and improved patient care through AI-driven insights.
 
 Built upon: Gokul-M7/Rehab-Motion-Tracking
----
+
